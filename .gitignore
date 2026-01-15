@@ -1,0 +1,14 @@
+downloaded_images/
+*.pyc
+__pycache__/
+.env
+.ipynb_checkpoints
+.cache/
+.vscode/
+.DS_Store
+Lora_models/
+send/
+*.zip
+DECOR_IMAGES/
+downloaded_images_kp/
+downloaded_images_prashanth_fabric/
